@@ -1,6 +1,6 @@
 # 42Porto_Get_next_line
 This project is a function that reads a line from a file descriptor, allowing you to read a text file line by line. This project is a part of the 42 curriculum and aims to provide a simple and efficient implementation of this functionality.
-For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Get_next_line/blob/main/4%20-%20get_next_line_en.subject.pdf).
+For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Get_next_line/blob/main/Get_next_line_en.subject.pdf).
 
 [![MasterHead](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)](https://www.linkedin.com/in/uatilla/)
 
